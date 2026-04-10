@@ -11,6 +11,6 @@ some css box
 
 
 
-[CV Page](https://ivarsj2.github.io/test3/)
+[CSS Page](https://ivarsj2.github.io/test3/)
 
 
