@@ -3,16 +3,13 @@
 ## About me
 
 ```
-Semantic tags
-    1.One
-    2.two
-    3.three
+some css box
 
 
 
 ```
 
-![Description of image](assets/sample.webp)
+
 
 [CV Page](https://ivarsj2.github.io/simple_cv_page/)
 
